@@ -1,0 +1,80 @@
+.Rightside{
+    flex: 3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.rightwrapper{
+    padding: 20px 20px 0 0;
+
+}
+.birthdaycotainer{
+    display: flex;
+    align-items: center;
+}
+.rightimg{
+    width: 40px;
+    height: 40px;
+    margin-right: 7px;
+}
+.righttext{
+    font-size: 15px;
+    font-weight: 600;
+}
+.ads{
+    border-radius: 10px;
+    margin: 30px 0;
+    width: 100%;
+}
+.rightbartitle{
+    margin-bottom: 20px;
+}
+
+.friendslist{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.rightsidetitle{
+    font-size: 20px;
+    font-family: 600;
+    margin-bottom: 10px;
+}
+.rightsidekey{
+    font-size: 500;
+    margin-right: 15px;
+    color: darkolivegreen;
+}
+rightsidevalue{
+    font-weight: 300;
+}
+.frienditem
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+      
+}
+.profileimage{
+margin-right: 10px;
+position: relative;
+}
+.friendsprofileimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.rightbaronline{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: absolute;
+    top: -2px;
+    right: 0;
+    border: 2px solid white;
+}
+.rigtbarusername{
+    font-size: 15px;
+    font-weight: 600;
+}
